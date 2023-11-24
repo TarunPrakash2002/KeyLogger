@@ -1,0 +1,25 @@
+Key f pressed!
+Key d pressed!
+Key c pressed!
+Key v pressed!
+Key m pressed!
+Key y pressed!
+Special Key Key.space pressed!
+Key n pressed!
+Key a pressed!
+Key m pressed!
+Key e pressed!
+Special Key Key.space pressed!
+Key i pressed!
+Key s pressed!
+Special Key Key.space pressed!
+Key t pressed!
+Key a pressed!
+Key r pressed!
+Key u pressed!
+Key n pressed!
+Special Key Key.space pressed!
+Key d pressed!
+Key o pressed!
+Key t pressed!
+Special Key Key.esc pressed!
